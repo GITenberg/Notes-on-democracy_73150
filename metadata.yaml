@@ -1,0 +1,38 @@
+_repo: Notes-on-democracy_73150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Mencken, Henry Louis
+    - Hatteras, Owen
+    - Mencken, Henry L.
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: https://en.wikipedia.org/wiki/H._L._Mencken
+description: ''
+gutenberg_issued: '2024-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73150'
+  lccn: '26019033'
+language: en
+pgterms:marc904: https://archive.org/details/notesondemocracy0000menc
+pgterms:marc905: 20220529020028mencken
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bAlfred A. Knopf, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Democracy'
+- !lcc 'JC'
+- GITenberg
+title: Notes on democracy
+url: http://www.gutenberg.org/ebooks/73150
